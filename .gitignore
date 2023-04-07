@@ -119,6 +119,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+conct-mngr/
 
 # Spyder project settings
 .spyderproject
